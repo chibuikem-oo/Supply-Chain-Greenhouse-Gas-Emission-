@@ -115,3 +115,13 @@ To improve sustainability and reduce GHG emissions:
 - Optimize supply chain operations to reduce emission margins.
 - Promote low-carbon investment strategies and sustainable practices.
 - Continue monitoring and analyzing emission trends to inform policy and business decisions.
+
+## Limitations
+- Data Completeness: The dataset may not include all industries or sectors, potentially leading to incomplete insights.
+- Data Accuracy: There may be errors or inconsistencies in the data that could affect the accuracy of the analysis.
+- Generalizability: Insights derived from this dataset may not be generalizable to other countries or regions.
+- Temporal Limitations: The analysis is based on historical data and may not reflect current or future trends.
+- Sectoral Analysis: The analysis assumes that industry sectors are a primary factor in GHG emissions, which may not always be the case.
+- Efficiency Assessments: The analysis assumes that emission efficiency is a primary factor in sustainability, which may not always be the case.
+- Future Scenarios: The analysis of future scenarios may not fully capture the impact of technological advancements or policy changes.
+- Data Granularity: The dataset may lack detailed information on specific supply chain activities, leading to less precise insights.
